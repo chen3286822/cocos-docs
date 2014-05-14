@@ -62,18 +62,20 @@
 		- [use webbroswer to integrate Alipay on Windows Phone 8](../manual/framework/native/sdk-integration/wp8-webbrowser/en.md)
 		- [integrate third SDK in Windows Phone 8](../manual/framework/native/sdk-integration/wp8-thirdSDK/en.md)
 	- Cocos2d-html5
-        - [Highlighted release note of Cocos2d-JS and Cocos2d-html5 v3.0a](../manual/framework/html5/release-notes/v3.0a/release-note/en.md)
-        - [Changelog of Cocos2d-html5 v3.0a](../manual/framework/html5/release-notes/v3.0a/changelog/en.md)
-        - [Upgrade guide frome Cocos2d-html5 v2.2.2 to v3.0a](../manual/framework/html5/release-notes/v3.0a/upgrade-guide/en.md)
+        - [Highlighted release note of Cocos2d-JS v3.0a2](../manual/framework/html5/release-notes/v3.0a2/release-note/en.md)
+        - [Changelog of Cocos2d-JS v3.0a2](../manual/framework/html5/release-notes/v3.0a2/changelog/en.md)
+        - [Upgrade guide to Cocos2d-JS v3.0a2](../manual/framework/html5/release-notes/v3.0a/upgrade-guide/en.md)
 		- Startup
+            - [About Cocos2d-html5](../manual/framework/html5/en.md)
 			- [Why use Cocos2d-html5 for Game Development](../manual/framework/html5/cocosh5-advantages/en.md)
 			- [Resolution Policy Design for Cocos2d-html5](../manual/framework/html5/resolution-policy-design/en.md)
-			- [Cocos utils based on node.js and NPM](../manual/framework/html5/cocos-utils/en.md))
+            - [History release notes](../manual/framework/html5/release-notes/en.md)
         - New features and API changes in version 3.0:
             - [New workflow with cocos console](../manual/framework/html5/cocos-console/en.md)
             - [New event manager](../manual/framework/html5/v3.0/eventManager/en.md)
             - [New property API](../manual/framework/html5/v3.0/getter-setter-api/en.md)
             - [Game creation](../manual/framework/html5/v3.0/cc-game/en.md)
+            - [Construction and inheritance](../manual/framework/html5/v3.0/inheritance/en.md)
             - [Cocos2d-html5 modulization](../manual/framework/html5/v3.0/moduleconfig-json/en.md)
             - [Pure configuration file](../manual/framework/html5/v3.0/project-json/en.md)
             - [Basic data refactoration](../manual/framework/html5/v3.0/basic-data/en.md)
@@ -90,7 +92,6 @@
             - [Other change from v2.2.2 to v3.0](../manual/framework/html5/v3.0/more-change-from-v2-to-v3/en.md)
             - Bake Node (In progress)
             - Simplified action APIs (In progress)
-            - The inheritance of engine classes (In progress)
 - Studio
 - Tutorials
 	- [Build a Game with CocoStudio](../tutorial/parkour-game-with-cocostudio/en.md)
@@ -108,4 +109,10 @@
 		- [Explorer with TiledMap and Camera](../tutorial/parkour-game-with-javascript/chapter7/en.md)
 		- [Add Coin and Obstacles](../tutorial/parkour-game-with-javascript/chapter8/en.md)
 		- [Add Game Over Logic And More](../tutorial/parkour-game-with-javascript/chapter9/en.md)
-        - [Add Audio Effect into Parkour Game](../tutorial/parkour-game-with-javascript/chapter10/en.md)
+        - [Add Audio Effect into Parkour Game](../tutorial/parkour-game-with-javascript/chapter10/en.md)        
+        
+- Cocos Code IDE
+    - Custom runtime
+        - [How to bind a custom class to lua runtime](../manual/studio/cocos-code-ide/binding-custom-class-to-lua/en.md)
+        - [How to bind a custom class to js runtime](../manual/studio/cocos-code-ide/binding-custom-class-to-js/en.md)
+        
